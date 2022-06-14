@@ -31,6 +31,7 @@ function game(){
     console.log(play());
 }
 
+console.log("Welcome to Rock Paper Scissors")
 for(let i = 0; i < 5; i++){
     game();
 }
